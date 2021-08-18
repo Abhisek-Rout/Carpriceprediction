@@ -1,0 +1,5 @@
+Step 1 : Create a new Environment. [conda create -n <myenv> python=3.6]
+Step 2 : activate <myenv>
+Step 3 : Go to the location where the project file is prepared
+Step 4 : At that location launch jupyter notebook
+Step 5 : 
